@@ -68,7 +68,7 @@ def edit_watchList():
             MainList['Dropped']=Upd_list
         else:
             print("Couldn't understand what you said. Try again.")
-            exit
+            exit()
 
         print("\nType the name of Anime you want to add to your Watchlist, when done, type 'Exit'\n")
 

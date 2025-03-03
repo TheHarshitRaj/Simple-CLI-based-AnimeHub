@@ -1,6 +1,6 @@
 # Simple-CLI-based-AnimeHub
 A CLI based one stop destination for all needs, whether it'd be searching for an anime, creating and editing your watchlist, or even watching an anime.
----
+
 
 ## Features 🚀
 
@@ -10,13 +10,13 @@ A CLI based one stop destination for all needs, whether it'd be searching for an
 ✅ **Watch Anime** – Redirects users to anime streaming sites (HiAnime, Miruro, AnimeZ, AnimeKai).  
 ✅ **Persistent Storage** – Saves and loads watchlists using a JSON file (`Watchlist.txt`).  
 
----
+
 
 ## Installation & Setup 🛠️
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/anime-watchlist.git
+   git clone https://github.com/TheHarshitRaj/anime-watchlist.git
    cd anime-watchlist
    ```
 
@@ -24,10 +24,10 @@ A CLI based one stop destination for all needs, whether it'd be searching for an
 
 3. **Run the script:**
    ```bash
-   python anime_watchlist.py
+   python AnimeHub.py
    ```
 
----
+
 
 ## Usage 📖
 
@@ -48,7 +48,7 @@ Enter anime names to add. Type 'Exit' to stop.
 ```
 This will save the watchlist under the `Watching` category.
 
----
+
 
 ## Dependencies 📦
 This script uses Python’s built-in modules:
@@ -58,7 +58,7 @@ This script uses Python’s built-in modules:
 
 _No external libraries are required!_
 
----
+
 
 ## Contributing 🤝
 Feel free to fork this repository and submit a pull request if you have any improvements!  
@@ -69,7 +69,7 @@ Feel free to fork this repository and submit a pull request if you have any impr
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a pull request
 
----
+
 
 ## License 📜
 This project is licensed under the MIT License. You are free to modify and distribute it.

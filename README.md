@@ -16,8 +16,8 @@ A CLI based one stop destination for all needs, whether it'd be searching for an
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/TheHarshitRaj/anime-watchlist.git
-   cd anime-watchlist
+   https://github.com/TheHarshitRaj/Simple-CLI-based-AnimeHub.git
+   cd Simple-CLI-based-AnimeHub
    ```
 
 2. **Ensure you have Python installed (3.x recommended).**  

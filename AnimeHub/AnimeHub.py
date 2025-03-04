@@ -14,10 +14,8 @@ def inputAndSearch():
     time.sleep(0.5)
     print("Redirecting..")
 
-    def search():
-        webbrowser.open(f'https://myanimelist.net/search/all?q={name}')
+    webbrowser.open(f'https://myanimelist.net/search/all?q={name}')
 
-    search()
 
 AnimeList={}
 Upd_list={}
